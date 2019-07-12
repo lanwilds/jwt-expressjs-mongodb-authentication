@@ -2,6 +2,7 @@
 REST API Authentication Express JS, MongoDB and JWT to generate Tokens
 
 ## Read Written Complete Tutorial 
+https://codemeda.com/jwt-authentication-with-express-js-and-mongodb/
 
 ## Installation
 > Rename .env.example to .env <br>
